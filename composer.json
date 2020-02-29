@@ -1,0 +1,17 @@
+{
+  "name": "bgdnp/foton-db",
+  "description": "Simple PDO database wrapper",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bogdan Petkovic",
+      "email": "bogdanpetkovic@outlook.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Bgdnp\\FotonDB\\": "src/"
+    }
+  }
+}
